@@ -1,0 +1,17 @@
+# Project exclude paths
+/python/
+.idea/.gitignore
+.idea/course_downloader.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+__pycache__/
+index-0.txt
+index-1.txt
+index-2.txt
+index-3.txt
+index-4.txt
+index-5.txt
+index-6.txt
+index-7.txt
